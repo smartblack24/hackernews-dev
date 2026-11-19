@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/
+dist/
+*.xlsx
+!HN_Developers_November_2026.xlsx
+.DS_Store
